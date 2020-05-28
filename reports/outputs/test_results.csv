@@ -1,0 +1,11 @@
+algorithm,method,score
+svm,bag_of_words,0.8743796965830143
+knn,bag_of_words,0.6123635332482632
+naive_bayes,bag_of_words,0.8687083510562881
+linear_regression,bag_of_words,0.8628952218913938
+random_forest,bag_of_words,0.8159648376577343
+svm,tf_idf,0.8410605416134977
+knn,tf_idf,0.7540053877782504
+naive_bayes,tf_idf,0.836665248830285
+linear_regression,tf_idf,0.8716858074578193
+random_forest,tf_idf,0.8183751595065929

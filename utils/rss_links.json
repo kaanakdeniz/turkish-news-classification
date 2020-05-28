@@ -1,0 +1,194 @@
+[
+    {
+        "link": "https://www.ntv.com.tr/otomobil.rss",
+        "category": "otomobil"
+    },
+    {
+        "link": "https://www.ntv.com.tr/sanat.rss",
+        "category": "sanat"
+    },
+    {
+        "link": "https://www.ntv.com.tr/saglik.rss",
+        "category": "saglik"
+    },
+    {
+        "link": "https://www.ntv.com.tr/teknoloji.rss",
+        "category": "teknoloji"
+    },
+    {
+        "link": "https://www.ntv.com.tr/spor.rss",
+        "category": "spor"
+    },
+    {
+        "link": "https://www.ntv.com.tr/ekonomi.rss",
+        "category": "ekonomi"
+    },
+    {
+        "link": "https://www.ntv.com.tr/dunya.rss",
+        "category": "dunya"
+    },
+    {
+        "link": "https://www.cnnturk.com/feed/rss/otomobil/news",
+        "category": "otomobil"
+    },
+    {
+        "link": "https://www.cnnturk.com/feed/rss/saglik/news",
+        "category": "saglik"
+    },
+    {
+        "link": "https://www.cnnturk.com/feed/rss/spor/news",
+        "category": "spor"
+    },
+    {
+        "link": "https://www.cnnturk.com/feed/rss/ekonomi/news",
+        "category": "ekonomi"
+    },
+    {
+        "link": "https://www.cnnturk.com/feed/rss/magazin/news",
+        "category": "magazin"
+    },
+    {
+        "link": "https://www.cnnturk.com/feed/rss/bilim-teknoloji/news",
+        "category": "teknoloji"
+    },
+    {
+        "link": "https://www.cnnturk.com/feed/rss/kultur-sanat/news",
+        "category": "sanat"
+    },
+    {
+        "link": "https://www.cnnturk.com/feed/rss/dunya/news",
+        "category": "dunya"
+    },
+    {
+        "link": "https://www.haberturk.com/rss/kategori/otomobil.xml",
+        "category": "otomobil"
+    },
+    {
+        "link": "https://www.haberturk.com/rss/kategori/teknoloji.xml",
+        "category": "teknoloji"
+    },
+    {
+        "link": "https://www.haberturk.com/rss/kategori/kultur-sanat.xml",
+        "category": "sanat"
+    },
+    {
+        "link": "https://www.haberturk.com/rss/kategori/dunya.xml",
+        "category": "dunya"
+    },
+    {
+        "link": "https://www.haberturk.com/rss/kategori/saglik.xml",
+        "category": "saglik"
+    },
+    {
+        "link": "https://www.haberturk.com/rss/magazin.xml",
+        "category": "magazin"
+    },
+    {
+        "link": "https://www.haberturk.com/rss/spor.xml",
+        "category": "spor"
+    },
+    {
+        "link": "https://www.haberturk.com/rss/ekonomi.xml",
+        "category": "ekonomi"
+    },
+    {
+        "link": "http://www.trt.net.tr/rss/saglik.rss",
+        "category": "saglik"
+    },
+    {
+        "link": "http://www.trt.net.tr/rss/ekonomi.rss",
+        "category": "ekonomi"
+    },
+    {
+        "link": "http://www.trt.net.tr/rss/spor.rss",
+        "category": "spor"
+    },
+    {
+        "link": "http://www.trt.net.tr/rss/dunya.rss",
+        "category": "dunya"
+    },
+    {
+        "link": "https://www.sabah.com.tr/rss/kultur-sanat.xml",
+        "category": "sanat"
+    },
+    {
+        "link": "https://www.sabah.com.tr/rss/saglik.xml",
+        "category": "saglik"
+    },
+    {
+        "link": "https://www.sabah.com.tr/rss/otomobil.xml",
+        "category": "otomobil"
+    },
+    {
+        "link": "https://www.sabah.com.tr/rss/teknoloji.xml",
+        "category": "teknoloji"
+    },
+    {
+        "link": "https://www.sabah.com.tr/rss/dunya.xml",
+        "category": "dunya"
+    },
+    {
+        "link": "https://www.sabah.com.tr/rss/spor.xml",
+        "category": "spor"
+    },
+    {
+        "link": "https://www.sabah.com.tr/rss/ekonomi.xml",
+        "category": "ekonomi"
+    },
+    {
+        "link": "http://www.star.com.tr/rss/rss.asp?cid=170",
+        "category": "otomobil"
+    },
+    {
+        "link": "http://www.star.com.tr/rss/rss.asp?cid=124",
+        "category": "teknoloji"
+    },
+    {
+        "link": "http://www.star.com.tr/rss/rss.asp?cid=125",
+        "category": "saglik"
+    },
+    {
+        "link": "http://www.star.com.tr/rss/rss.asp?cid=20",
+        "category": "magazin"
+    },
+    {
+        "link": "http://www.star.com.tr/rss/rss.asp?cid=19",
+        "category": "sanat"
+    },
+    {
+        "link": "http://www.star.com.tr/rss/rss.asp?cid=17",
+        "category": "dunya"
+    },
+    {
+        "link": "http://www.star.com.tr/rss/rss.asp?cid=16",
+        "category": "spor"
+    },
+    {
+        "link": "http://www.star.com.tr/rss/rss.asp?cid=15",
+        "category": "ekonomi"
+    },
+    {
+        "link": "http://www.gazetevatan.com/rss/otomobil.xml",
+        "category": "otomobil"
+    },
+    {
+        "link": "http://www.gazetevatan.com/rss/saglik.xml",
+        "category": "saglik"
+    },
+    {
+        "link": "http://www.gazetevatan.com/rss/dunya.xml",
+        "category": "dunya"
+    },
+    {
+        "link": "http://www.gazetevatan.com/rss/magazin.xml",
+        "category": "magazin"
+    },
+    {
+        "link": "http://www.gazetevatan.com/rss/teknoloji.xml",
+        "category": "teknoloji"
+    },
+    {
+        "link": "http://www.gazetevatan.com/rss/ekonomi.xml",
+        "category": "ekonomi"
+    }
+]
